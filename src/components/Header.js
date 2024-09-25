@@ -1,4 +1,4 @@
-// src/components/Header.js
+
 import { Header, Title, Group } from '@mantine/core';
 
 export default function AppHeader() {
@@ -6,7 +6,7 @@ export default function AppHeader() {
     <Header height={60} padding="xs">
       <Group position="apart" style={{ height: '100%' }}>
         <Title order={3} style={{ color: '#5C7AEA' }}>
-          Vocal Cutter Pro
+          Audio Cutter Pro
         </Title>
       </Group>
     </Header>

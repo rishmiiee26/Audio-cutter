@@ -1,4 +1,4 @@
-// src/components/LeftSidebar.js
+
 import { Navbar, Button, Stack } from '@mantine/core';
 
 export default function LeftSidebar() {

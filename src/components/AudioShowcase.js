@@ -1,5 +1,4 @@
-// src/components/AudioShowcase.js
-import { useState, useRef } from 'react';
+
 import { Group, Button, Text } from '@mantine/core';
 
 export default function AudioShowcase() {

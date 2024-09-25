@@ -1,4 +1,4 @@
-// src/components/CutterControls.js
+
 import { Slider, Button, Group } from '@mantine/core';
 
 export default function CutterControls() {
